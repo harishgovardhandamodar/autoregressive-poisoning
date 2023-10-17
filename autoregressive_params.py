@@ -112,7 +112,7 @@ RANDOM_3C_AR_PARAMS_RNMR_10 = [torch.tensor([[[ 0.1561, -0.0710,  0.3743],
                                         [-0.0165,  0.1160,  0.1356],
                                         [ 0.1772,  0.0321, -0.0000]]])]
 
-RANDOM_100CLASS_3C_AR_PARAMS_RNMR_3 = torch.load('/cfarhomes/psando/Documents/autoregressive-poisoning/params-classes-100-mr-3.pt')
+RANDOM_100CLASS_3C_AR_PARAMS_RNMR_3 = torch.load('/Users/harishdamodar/Codebase/autoregressive-poisoning/params-classes-100-mr-3.pt')
 
 # The coefficients below are not meant to be used for poisoning
 # but instead are used to illustrate the simplicity of PerfectARModel
